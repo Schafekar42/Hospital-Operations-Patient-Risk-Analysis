@@ -1,5 +1,6 @@
 # Hospital-Operations-Patient-Risk-Analysis
 Developed an end-to-end Healthcare Analytics project using Python, SQL, Pandas, NumPy, and Matplotlib Trun 30,000+ raw hospital admission records into a single, decision-ready dashboard — helping administrators track cost and capacity, and clinical teams monitor risk and outcomes, without digging through spreadsheets.
+ 
  This dashboard helps answer:
 * Where is patient volume trending, and where's the pressure (Emergency vs Planned)?
 * Which hospitals/departments are driving the highest costs?
